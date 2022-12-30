@@ -1,0 +1,8 @@
+{
+  "prod": {
+    "urls": {
+      "UbiPROD": "https://public-ubiservices.ubi.com"
+    }
+    
+  }
+}
