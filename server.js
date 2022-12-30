@@ -43,4 +43,4 @@ app.post(v3sessions.ubi.sessions,(req,res) => {
 
 // Listen
 
-app.listen(process.env.PORT ,console.log('Server Is Runnig'))
+app.listen(process.env.PORT ,console.log('Server Is Running'))
